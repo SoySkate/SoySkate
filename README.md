@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/12XxYnYLMEn6yA/giphy.gif" width="200"/>
-<h1 align"center">Hi there 👋, I'm Andreu!</h1> 
+<h1 align"center">Hi there 👋, I'm Andrew!</h1> 
 <h3 align="center">A passionate developer who is gaining experience through projects in both frontend and backend development. I am an enthusiastic individual who strongly believes that knowledge is power, and I have a genuine love for learning and embracing challenges to enhance my personal growth.</h3>
 </div>
 <h3 align="center">________________________________________________________________________________</h3>
