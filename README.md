@@ -38,10 +38,10 @@
 <h3 align="center">________________________________________________________________________________</h3>
 
 ### 🏋️ About Me:
-- 🔭 I’m currently working on Municipal elections program [ElecMunicipals2](https://github.com/SoySkate/ElecMunicipals2)
-- 🌱 I’m currently learning **React.js, TypeScript, Python**
+- 🔭 I’m currently working on AndoidApp BarberShop (Android Studio), C# doing my own ecomm and NewAge Project (We're developing a a project that will be a developer business with AI)
+- 🌱 I’m currently learning **FRONTEND:React.js, JavascriptVanilla BACKEND: C#, Java SYSTEMS&NETWORKS:Ubuntu-Server/Windows**
 - 👯 I'm looking to collaborate with any tech company, such as those involved in game development or software engineering.
-- 💬 Ask me about **C#, C, Object-oriented programming, SQL, Java**
+- 💬 Ask me about **C#, C, Object-oriented programming, SQL, Java, and react. | Also you can ask me about economy I love it ;)**
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/andreu-mart%C3%ADn-466a82190/) or andreumartintorres.amt@gmail.com
 - ⚡ Fun fact: I usually play basketball with my friends, and I am also a member of a rock band where I play the drums. I have a passion for learning, which is why I often watch videos and read books about physics, the tech world, and politics.
 
